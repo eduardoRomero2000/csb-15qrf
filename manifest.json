@@ -1,0 +1,17 @@
+{
+  "name": "Code Scanner",
+  "short_name": "Code Scanner",
+  "version": "1.0",
+  "description": "Tarea de Scanner",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F3764F",
+  "background_color": "#ffffff"
+}
